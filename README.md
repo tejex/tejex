@@ -10,6 +10,9 @@ I am an aspiring software engineer from Addis Ababa, Ethiopia and I really enjoy
 I am a huge fan of web development and I love working with the React framework. 
 
 If you would like to learn more about my experiences, hobbies and the technologies I've worked with, please visit my personal website.
-Personal Website: https://lustrous-raindrop-2e1240.netlify.app
+
+- Personal Website: https://lustrous-raindrop-2e1240.netlify.app
+- LinkedIn: https://www.linkedin.com/in/bamlak-deju-b1a9a8218/
+- Instagram: https://www.instagram.com/teju.32/
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
