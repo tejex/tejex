@@ -1,4 +1,4 @@
-![Alt Text](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
+![Alt Text](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif) ![Alt Text](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif) 
 ### Hello👋, thanks for visiting my Github Profile!!
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
