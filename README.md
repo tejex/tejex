@@ -1,5 +1,6 @@
-<!-- ![Alt Text](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)  -->
-![Alt Text](https://media.tenor.com/qVW4iS42iC4AAAAC/lebron-james-dancing.gif) 
+![Alt Text](![Alt Text](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)) ![Alt Text](https://media.tenor.com/qVW4iS42iC4AAAAC/lebron-james-dancing.gif)
+
+
 ### Hello👋, thanks for visiting my Github Profile!!
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
