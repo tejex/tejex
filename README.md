@@ -6,7 +6,7 @@
 
 I am an aspiring software engineer from Addis Ababa, Ethiopia and I really enjoy creating and building software. I love watching my project ideas come to life and you can check them out in my projects in the repositories section!! 
 
-I am a huge fan of web development and I love working with the React framework. 
+I am a huge fan of full stack web development and I love working with the React framework. 
 
 If you would like to learn more about my experiences, hobbies and the technologies I've worked with, please visit my personal website.
 
