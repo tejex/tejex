@@ -13,5 +13,6 @@ If you would like to learn more about my experiences, hobbies and the technologi
 <!-- - Personal Website: https://bam-info.com -->
 - LinkedIn: https://www.linkedin.com/in/bamlak-deju-b1a9a8218/
 - Instagram: https://www.instagram.com/teju.32/
+- Personal Website: https://bam-info.com
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
