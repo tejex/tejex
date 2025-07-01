@@ -1,5 +1,3 @@
-![Alt Text](https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952lmc2n8cvtj7x60hu4qvvuiaur0j4bk0w9lc1f37d&rid=200w.gif&ct=g)
-
 ### Hello👋, thanks for visiting my Github Profile!!
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
